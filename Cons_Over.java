@@ -28,9 +28,7 @@ public class Cons_Over
 {
 	public static void main(String[] args) {
 	    student obj1 = new student(111,"Utsav");
-	    
 	    student obj2 = new student(111,"Utsav",7);
-	    
-		
+	
 	}
 }
